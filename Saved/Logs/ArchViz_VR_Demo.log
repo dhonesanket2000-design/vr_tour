@@ -2398,3 +2398,76 @@ The following settings have been applied:
 [2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: ================================================
 [2025.09.21-13.56.38:762][ 93]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.21-13.56.38:762][ 93]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 365.420105, Update Interval: 358.330017
+[2025.09.21-14.02.40:946][497]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 727.938354
+[2025.09.21-14.02.42:280][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-14.02.42:280][502]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 728.937622, Update Interval: 303.237396
+[2025.09.21-14.06.07:133][490]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.09.21-14.06.07:134][490]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.09.21-14.06.36:971][252]LogSlate: Took 0.008136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.09.21-14.06.52:610][159]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.09.21-14.06.52:631][159]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.09.21-14.06.52:633][159]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.09.21-14.06.52:641][159]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.09.21-14.07.50:198][562]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1037.192749
+[2025.09.21-14.07.50:716][593]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-14.07.50:716][593]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1037.692749, Update Interval: 352.314819
+[2025.09.21-14.08.38:643][366]LogShaderCompilers: Display: ================================================
+[2025.09.21-14.08.38:643][366]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.21-14.08.38:643][366]LogShaderCompilers: Display: Total job queries 3,709, among them cache hits 1,099 (29.63%), DDC hits 1,939 (52.28%), Duplicates 321 (8.65%)
+[2025.09.21-14.08.38:643][366]LogShaderCompilers: Display: Tracking 2,289 distinct input hashes that result in 1,599 distinct outputs (69.86%)
+[2025.09.21-14.08.38:643][366]LogShaderCompilers: Display: RAM used: 19.41 MiB of 819.20 MiB budget. Usage: 2.37%
+[2025.09.21-14.08.38:643][366]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.21-14.08.38:643][366]LogShaderCompilers: Display: Shaders Compiled: 350
+[2025.09.21-14.08.38:643][366]LogShaderCompilers: Display: Jobs assigned 350, completed 350 (100%)
+[2025.09.21-14.08.38:643][366]LogShaderCompilers: Display: Average time worker was idle: 13.90 s
+[2025.09.21-14.08.38:643][366]LogShaderCompilers: Display: Time job spent in pending queue: average 8.76 s, longest 29.48 s
+[2025.09.21-14.08.38:643][366]LogShaderCompilers: Display: Job execution time: average 2.12 s, max 5.56 s
+[2025.09.21-14.08.38:643][366]LogShaderCompilers: Display: Job life time (pending + execution): average 10.88 s, max 32.15
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Shader code size: total 5.495 MiB, numShaders 354, average 15.896 KiB, min 1.63 KiB, max 100.041 KiB
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 79.96 s
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Jobs were issued in 317 batches (only local compilation was used), average 1.10 jobs/batch
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Average processing rate: 4.38 jobs/sec
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Total thread time: 659.299 s
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Total thread preprocess time: 82.407 s
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Percentage time preprocessing: 12.50%
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Effective parallelization: 8.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.824541
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 4.81 sec, max 4.81 sec, min 4.81 sec)
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   49 times, average 3.92 sec, max 4.71 sec, min 2.62 sec)
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   52 times, average 3.20 sec, max 3.80 sec, min 0.42 sec)
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: TMaterialCHSTDistanceFieldShadowsAndLightMapPolicyHQFAnyHitShader (compiled    1 times, average 2.15 sec, max 2.15 sec, min 2.15 sec)
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 29.15% of total time (compiled   49 times, average 3.92 sec, max 4.71 sec, min 2.62 sec)
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.27% of total time (compiled   52 times, average 3.20 sec, max 3.80 sec, min 0.42 sec)
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display:         TMaterialCHSTDistanceFieldShadowsAndLightMapPolicyHQ - 12.21% of total time (compiled   48 times, average 1.68 sec, max 1.78 sec, min 1.42 sec)
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.10% of total time (compiled   49 times, average 1.49 sec, max 1.86 sec, min 0.68 sec)
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display:                                             FGPULightmassCHS - 11.07% of total time (compiled   55 times, average 1.33 sec, max 3.06 sec, min 0.92 sec)
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: === Material stats ===
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Materials Translated:    233
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Material Translation Only: 0.06 s (35%)
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.09.21-14.08.38:644][366]LogShaderCompilers: Display: ================================================
+[2025.09.21-14.08.43:280][640]LogSlate: Window 'Content Browser' being destroyed
+[2025.09.21-14.08.43:290][640]LogSlate: Window 'Content Browser' being destroyed
+[2025.09.21-14.08.55:798][377]LogStreaming: Display: FlushAsyncLoading(361): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.21-14.09.03:252][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-14.09.03:368][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.21-14.09.03:411][808]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Maps/Interior
+[2025.09.21-14.09.03:413][808]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/Interior6E9D849D4BE88153E54CCC83FAA559F5.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Maps/Interior.umap'
+[2025.09.21-14.09.03:423][808]LogFileHelpers: All files are already saved.
+[2025.09.21-14.09.03:423][808]LogFileHelpers: Saving map 'Interior' took 0.117
+[2025.09.21-14.09.03:434][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.739 ms (total: 6.81 sec)
+[2025.09.21-14.09.03:488][808]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.21-14.09.03:488][808]LogContentValidation: Enabled validators:
+[2025.09.21-14.09.03:488][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-14.09.03:488][808]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-14.09.03:488][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-14.09.03:488][808]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-14.09.03:488][808]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-14.09.03:488][808]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-14.09.03:488][808]AssetCheck: /Game/ArchVizInteriorVol3/Maps/Interior Validating asset
