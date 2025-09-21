@@ -1795,3 +1795,606 @@ The following settings have been applied:
 [2025.09.21-13.54.03:352][  2]LogD3D12RHI: Waited for PSO creation for 200.000000ms
 [2025.09.21-13.54.11:383][292]LogD3D12RHI: Waited for PSO creation for 100.000000ms
 [2025.09.21-13.54.11:483][292]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.09.21-13.55.46:057][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.21-13.55.46:070][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-13.55.46:270][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.09.21-13.55.46:324][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Maps/Interior
+[2025.09.21-13.55.46:325][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/Interior888851FC4DD87F966C5A20BCEB78A51E.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Maps/Interior.umap'
+[2025.09.21-13.55.46:343][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.21-13.55.46:343][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArchVizInteriorVol3/Maps/Interior_BuiltData] ([1] browsable assets)...
+[2025.09.21-13.55.46:343][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Maps/Interior_BuiltData]
+[2025.09.21-13.55.46:535][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Maps/Interior_BuiltData
+[2025.09.21-13.55.46:535][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/Interior_BuiltDataEF5B24E748E325EF188B7C817CC18798.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Maps/Interior_BuiltData.uasset'
+[2025.09.21-13.55.46:539][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.960 ms
+[2025.09.21-13.55.46:539][810]LogFileHelpers: Saving map 'Interior' took 0.319
+[2025.09.21-13.55.46:539][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArchVizInteriorVol3/Maps/Interior_BuiltData] ([1] browsable assets)...
+[2025.09.21-13.55.46:539][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Maps/Interior_BuiltData]
+[2025.09.21-13.55.46:693][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Maps/Interior_BuiltData
+[2025.09.21-13.55.46:695][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/Interior_BuiltData2748735F4F95CE81A624618DF3532947.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Maps/Interior_BuiltData.uasset'
+[2025.09.21-13.55.46:699][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/EngineSky/BP_Sky_Sphere] ([2] browsable assets)...
+[2025.09.21-13.55.46:699][810]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineSky/BP_Sky_Sphere]
+[2025.09.21-13.55.46:699][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/BP_Sky_Sphere" FILE="../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" SILENT=true
+[2025.09.21-13.55.46:739][810]LogSavePackage: Moving output files for package: /Engine/EngineSky/BP_Sky_Sphere
+[2025.09.21-13.55.46:739][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/BP_Sky_Sphere82344475478196E84245F1A7816404F8.tmp' to '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset'
+[2025.09.21-13.55.46:742][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/EngineSky/SM_SkySphere] ([1] browsable assets)...
+[2025.09.21-13.55.46:742][810]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.09.21-13.55.46:742][810]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2025.09.21-13.55.46:895][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Engine/EngineSky/SM_SkySphere.SM_SkySphere]
+[2025.09.21-13.55.46:895][810]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineSky/SM_SkySphere]
+[2025.09.21-13.55.46:895][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/SM_SkySphere" FILE="../../../Engine/Content/EngineSky/SM_SkySphere.uasset" SILENT=true
+[2025.09.21-13.55.46:913][810]LogSavePackage: Moving output files for package: /Engine/EngineSky/SM_SkySphere
+[2025.09.21-13.55.46:913][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_SkySphereE737AE0A4E47F4F80298BD9FB973FAD9.tmp' to '../../../Engine/Content/EngineSky/SM_SkySphere.uasset'
+[2025.09.21-13.55.46:914][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Armchair] ([1] browsable assets)...
+[2025.09.21-13.55.46:930][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Armchair.SM_Armchair]
+[2025.09.21-13.55.46:930][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Armchair]
+[2025.09.21-13.55.46:930][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Armchair" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Armchair.uasset" SILENT=true
+[2025.09.21-13.55.46:981][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Armchair
+[2025.09.21-13.55.46:981][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_ArmchairB8F4344F4613BDB287E10E93FFF4760B.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Armchair.uasset'
+[2025.09.21-13.55.46:983][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Backside_Door] ([1] browsable assets)...
+[2025.09.21-13.55.46:993][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Backside_Door.SM_Backside_Door]
+[2025.09.21-13.55.46:993][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Backside_Door]
+[2025.09.21-13.55.47:013][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Backside_Door
+[2025.09.21-13.55.47:015][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Backside_DoorB1B204FD45BA597C31706788EC55463F.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Backside_Door.uasset'
+[2025.09.21-13.55.47:016][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Backside_Door_Glass] ([1] browsable assets)...
+[2025.09.21-13.55.47:037][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Backside_Door_Glass.SM_Backside_Door_Glass]
+[2025.09.21-13.55.47:037][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Backside_Door_Glass]
+[2025.09.21-13.55.47:054][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Backside_Door_Glass
+[2025.09.21-13.55.47:054][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Backside_Door_Glass6F4D8A9F43EC3FE64451568B7B9B5BC6.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Backside_Door_Glass.uasset'
+[2025.09.21-13.55.47:056][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Bag_1] ([1] browsable assets)...
+[2025.09.21-13.55.47:068][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Bag_1.SM_Bag_1]
+[2025.09.21-13.55.47:068][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Bag_1]
+[2025.09.21-13.55.47:068][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Bag_1" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Bag_1.uasset" SILENT=true
+[2025.09.21-13.55.47:105][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Bag_1
+[2025.09.21-13.55.47:106][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Bag_14A3D64064F32E5DFC6D11B9B90430C40.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Bag_1.uasset'
+[2025.09.21-13.55.47:107][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Bag_2] ([1] browsable assets)...
+[2025.09.21-13.55.47:119][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Bag_2.SM_Bag_2]
+[2025.09.21-13.55.47:119][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Bag_2]
+[2025.09.21-13.55.47:119][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Bag_2" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Bag_2.uasset" SILENT=true
+[2025.09.21-13.55.47:159][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Bag_2
+[2025.09.21-13.55.47:161][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Bag_28D8601B44CC3694688340BABBA214120.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Bag_2.uasset'
+[2025.09.21-13.55.47:162][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Bag_3] ([1] browsable assets)...
+[2025.09.21-13.55.47:176][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Bag_3.SM_Bag_3]
+[2025.09.21-13.55.47:176][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Bag_3]
+[2025.09.21-13.55.47:176][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Bag_3" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Bag_3.uasset" SILENT=true
+[2025.09.21-13.55.47:221][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Bag_3
+[2025.09.21-13.55.47:222][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Bag_332966F774435E0C4EB061FA3D9457761.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Bag_3.uasset'
+[2025.09.21-13.55.47:225][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Bed] ([1] browsable assets)...
+[2025.09.21-13.55.47:239][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Bed.SM_Bed]
+[2025.09.21-13.55.47:239][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Bed]
+[2025.09.21-13.55.47:239][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Bed" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Bed.uasset" SILENT=true
+[2025.09.21-13.55.47:593][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Bed
+[2025.09.21-13.55.47:595][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Bed73922FC546A6C5C5769E428B205B4AC1.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Bed.uasset'
+[2025.09.21-13.55.47:598][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Bed_Table] ([1] browsable assets)...
+[2025.09.21-13.55.47:607][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Bed_Table.SM_Bed_Table]
+[2025.09.21-13.55.47:607][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Bed_Table]
+[2025.09.21-13.55.47:607][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Bed_Table" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Bed_Table.uasset" SILENT=true
+[2025.09.21-13.55.47:630][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Bed_Table
+[2025.09.21-13.55.47:630][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Bed_Table62A643274E810998A335DDB2A1243BF7.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Bed_Table.uasset'
+[2025.09.21-13.55.47:633][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Blinds_1] ([1] browsable assets)...
+[2025.09.21-13.55.47:643][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Blinds_1.SM_Blinds_1]
+[2025.09.21-13.55.47:643][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Blinds_1]
+[2025.09.21-13.55.47:643][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Blinds_1" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Blinds_1.uasset" SILENT=true
+[2025.09.21-13.55.47:685][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Blinds_1
+[2025.09.21-13.55.47:686][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Blinds_1FA022B8C4209EBE66748BCBB847D41A1.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Blinds_1.uasset'
+[2025.09.21-13.55.47:687][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Blinds_2] ([1] browsable assets)...
+[2025.09.21-13.55.47:696][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Blinds_2.SM_Blinds_2]
+[2025.09.21-13.55.47:696][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Blinds_2]
+[2025.09.21-13.55.47:696][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Blinds_2" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Blinds_2.uasset" SILENT=true
+[2025.09.21-13.55.47:737][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Blinds_2
+[2025.09.21-13.55.47:739][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Blinds_29D6322EA44BC9A9C2ED6C99DEB31B8C7.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Blinds_2.uasset'
+[2025.09.21-13.55.47:742][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Blinds_3] ([1] browsable assets)...
+[2025.09.21-13.55.47:752][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Blinds_3.SM_Blinds_3]
+[2025.09.21-13.55.47:752][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Blinds_3]
+[2025.09.21-13.55.47:752][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Blinds_3" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Blinds_3.uasset" SILENT=true
+[2025.09.21-13.55.47:867][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Blinds_3
+[2025.09.21-13.55.47:867][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Blinds_3B76C89F34452098C59C4F3BA66713CEE.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Blinds_3.uasset'
+[2025.09.21-13.55.47:870][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Bowl_with_Oranges] ([1] browsable assets)...
+[2025.09.21-13.55.47:881][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Bowl_with_Oranges.SM_Bowl_with_Oranges]
+[2025.09.21-13.55.47:881][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Bowl_with_Oranges]
+[2025.09.21-13.55.47:952][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Bowl_with_Oranges
+[2025.09.21-13.55.47:953][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Bowl_with_Oranges5E58342E42CE71B3E74496BE88F8ECE6.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Bowl_with_Oranges.uasset'
+[2025.09.21-13.55.47:955][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Candlestick] ([1] browsable assets)...
+[2025.09.21-13.55.47:965][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Candlestick.SM_Candlestick]
+[2025.09.21-13.55.47:965][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Candlestick]
+[2025.09.21-13.55.48:001][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Candlestick
+[2025.09.21-13.55.48:001][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Candlestick4B78331941B23E0F0C9B79A340A6E7D6.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Candlestick.uasset'
+[2025.09.21-13.55.48:004][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Carpet] ([1] browsable assets)...
+[2025.09.21-13.55.48:015][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Carpet.SM_Carpet]
+[2025.09.21-13.55.48:015][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Carpet]
+[2025.09.21-13.55.48:015][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Carpet" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Carpet.uasset" SILENT=true
+[2025.09.21-13.55.48:043][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Carpet
+[2025.09.21-13.55.48:045][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Carpet4A67542743AE03E3658FA58989736879.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Carpet.uasset'
+[2025.09.21-13.55.48:046][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Ceiling] ([1] browsable assets)...
+[2025.09.21-13.55.48:057][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Ceiling.SM_Ceiling]
+[2025.09.21-13.55.48:057][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Ceiling]
+[2025.09.21-13.55.48:057][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Ceiling" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Ceiling.uasset" SILENT=true
+[2025.09.21-13.55.48:084][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Ceiling
+[2025.09.21-13.55.48:085][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_CeilingC298801743201DC489DA1AA89462B63D.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Ceiling.uasset'
+[2025.09.21-13.55.48:087][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_1] ([1] browsable assets)...
+[2025.09.21-13.55.48:097][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_1.SM_Ceiling_Lamp_1]
+[2025.09.21-13.55.48:097][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_1]
+[2025.09.21-13.55.48:162][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_1
+[2025.09.21-13.55.48:163][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Ceiling_Lamp_1CA870CEF4BEDAA522763E69F929D3402.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_1.uasset'
+[2025.09.21-13.55.48:165][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_2] ([1] browsable assets)...
+[2025.09.21-13.55.48:176][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_2.SM_Ceiling_Lamp_2]
+[2025.09.21-13.55.48:176][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_2]
+[2025.09.21-13.55.48:239][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_2
+[2025.09.21-13.55.48:240][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Ceiling_Lamp_280251C8D4FDBFE6F93F841B3D8041D1F.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_2.uasset'
+[2025.09.21-13.55.48:242][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_3] ([1] browsable assets)...
+[2025.09.21-13.55.48:252][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_3.SM_Ceiling_Lamp_3]
+[2025.09.21-13.55.48:252][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_3]
+[2025.09.21-13.55.48:321][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_3
+[2025.09.21-13.55.48:322][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Ceiling_Lamp_308F2569741C0E14B2E15CDA48398DCD2.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_3.uasset'
+[2025.09.21-13.55.48:325][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Chair] ([1] browsable assets)...
+[2025.09.21-13.55.48:335][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Chair.SM_Chair]
+[2025.09.21-13.55.48:335][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Chair]
+[2025.09.21-13.55.48:335][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Chair" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Chair.uasset" SILENT=true
+[2025.09.21-13.55.48:383][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Chair
+[2025.09.21-13.55.48:385][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Chair778BCFD84F1DDB4CB9201AA390C41FC5.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Chair.uasset'
+[2025.09.21-13.55.48:387][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Chair_2] ([1] browsable assets)...
+[2025.09.21-13.55.48:399][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Chair_2.SM_Chair_2]
+[2025.09.21-13.55.48:399][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Chair_2]
+[2025.09.21-13.55.48:399][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Chair_2" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Chair_2.uasset" SILENT=true
+[2025.09.21-13.55.48:480][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Chair_2
+[2025.09.21-13.55.48:480][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Chair_29EECA5E0448D8FEBA686F8A23F306465.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Chair_2.uasset'
+[2025.09.21-13.55.48:482][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Clock] ([1] browsable assets)...
+[2025.09.21-13.55.48:494][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Clock.SM_Clock]
+[2025.09.21-13.55.48:494][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Clock]
+[2025.09.21-13.55.48:494][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Clock" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Clock.uasset" SILENT=true
+[2025.09.21-13.55.48:567][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Clock
+[2025.09.21-13.55.48:569][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_ClockF6D21A3E4064D20F44B07EB9BE5CF555.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Clock.uasset'
+[2025.09.21-13.55.48:570][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_1] ([1] browsable assets)...
+[2025.09.21-13.55.48:579][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_1.SM_Coffe_Table_1]
+[2025.09.21-13.55.48:579][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_1]
+[2025.09.21-13.55.48:615][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_1
+[2025.09.21-13.55.48:617][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Coffe_Table_1D3F6B6A341E6D0E6BAEEB2BC64809942.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_1.uasset'
+[2025.09.21-13.55.48:620][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_2] ([1] browsable assets)...
+[2025.09.21-13.55.48:630][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_2.SM_Coffe_Table_2]
+[2025.09.21-13.55.48:630][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_2]
+[2025.09.21-13.55.48:666][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_2
+[2025.09.21-13.55.48:667][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Coffe_Table_2572677144CFCACBE77ECE6A64AD070BE.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_2.uasset'
+[2025.09.21-13.55.48:669][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_3] ([1] browsable assets)...
+[2025.09.21-13.55.48:679][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_3.SM_Coffe_Table_3]
+[2025.09.21-13.55.48:681][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_3]
+[2025.09.21-13.55.48:729][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_3
+[2025.09.21-13.55.48:730][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Coffe_Table_3065BAD354132664BCA8C069CFDD7E704.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_3.uasset'
+[2025.09.21-13.55.48:731][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Cup] ([1] browsable assets)...
+[2025.09.21-13.55.48:742][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Cup.SM_Cup]
+[2025.09.21-13.55.48:742][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Cup]
+[2025.09.21-13.55.48:742][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Cup" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Cup.uasset" SILENT=true
+[2025.09.21-13.55.48:785][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Cup
+[2025.09.21-13.55.48:787][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_CupAE1202EF49EB3B0EF0992CADBA291B37.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Cup.uasset'
+[2025.09.21-13.55.48:790][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Decor_1] ([1] browsable assets)...
+[2025.09.21-13.55.48:800][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Decor_1.SM_Decor_1]
+[2025.09.21-13.55.48:800][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Decor_1]
+[2025.09.21-13.55.48:800][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Decor_1" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Decor_1.uasset" SILENT=true
+[2025.09.21-13.55.48:855][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Decor_1
+[2025.09.21-13.55.48:857][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Decor_116AA0FA241962495533B2F96DE5B7D75.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Decor_1.uasset'
+[2025.09.21-13.55.48:858][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Decor_2] ([1] browsable assets)...
+[2025.09.21-13.55.48:870][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Decor_2.SM_Decor_2]
+[2025.09.21-13.55.48:870][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Decor_2]
+[2025.09.21-13.55.48:870][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Decor_2" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Decor_2.uasset" SILENT=true
+[2025.09.21-13.55.48:911][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Decor_2
+[2025.09.21-13.55.48:913][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Decor_2B57F5893437AC402C1622FB691FF234D.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Decor_2.uasset'
+[2025.09.21-13.55.48:916][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Decor_3] ([1] browsable assets)...
+[2025.09.21-13.55.48:925][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Decor_3.SM_Decor_3]
+[2025.09.21-13.55.48:927][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Decor_3]
+[2025.09.21-13.55.48:927][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Decor_3" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Decor_3.uasset" SILENT=true
+[2025.09.21-13.55.48:955][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Decor_3
+[2025.09.21-13.55.48:955][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Decor_3E026593340F9632BB36FB994D518662E.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Decor_3.uasset'
+[2025.09.21-13.55.48:957][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Decor_4] ([1] browsable assets)...
+[2025.09.21-13.55.48:967][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Decor_4.SM_Decor_4]
+[2025.09.21-13.55.48:967][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Decor_4]
+[2025.09.21-13.55.48:967][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Decor_4" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Decor_4.uasset" SILENT=true
+[2025.09.21-13.55.49:046][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Decor_4
+[2025.09.21-13.55.49:048][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Decor_4931A19124576E382AE2D0397B0953112.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Decor_4.uasset'
+[2025.09.21-13.55.49:050][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Decor_5] ([1] browsable assets)...
+[2025.09.21-13.55.49:060][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Decor_5.SM_Decor_5]
+[2025.09.21-13.55.49:061][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Decor_5]
+[2025.09.21-13.55.49:061][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Decor_5" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Decor_5.uasset" SILENT=true
+[2025.09.21-13.55.49:090][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Decor_5
+[2025.09.21-13.55.49:090][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Decor_594688C074A1689CDE639F5AA6459B7CB.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Decor_5.uasset'
+[2025.09.21-13.55.49:093][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Decor_9] ([1] browsable assets)...
+[2025.09.21-13.55.49:103][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Decor_9.SM_Decor_9]
+[2025.09.21-13.55.49:103][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Decor_9]
+[2025.09.21-13.55.49:103][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Decor_9" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Decor_9.uasset" SILENT=true
+[2025.09.21-13.55.49:141][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Decor_9
+[2025.09.21-13.55.49:141][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Decor_99C941D1242D43FE671F7C2A7EEFB64F9.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Decor_9.uasset'
+[2025.09.21-13.55.49:144][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Door] ([1] browsable assets)...
+[2025.09.21-13.55.49:153][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Door.SM_Door]
+[2025.09.21-13.55.49:153][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Door]
+[2025.09.21-13.55.49:155][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Door" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Door.uasset" SILENT=true
+[2025.09.21-13.55.49:177][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Door
+[2025.09.21-13.55.49:177][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_DoorAAEF7547400892817474088FED713238.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Door.uasset'
+[2025.09.21-13.55.49:180][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Door_Enter] ([1] browsable assets)...
+[2025.09.21-13.55.49:190][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Door_Enter.SM_Door_Enter]
+[2025.09.21-13.55.49:190][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Door_Enter]
+[2025.09.21-13.55.49:229][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Door_Enter
+[2025.09.21-13.55.49:230][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Door_Enter05582E774DE6B666041C969935309DC7.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Door_Enter.uasset'
+[2025.09.21-13.55.49:233][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Floor] ([1] browsable assets)...
+[2025.09.21-13.55.49:244][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Floor.SM_Floor]
+[2025.09.21-13.55.49:244][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Floor]
+[2025.09.21-13.55.49:244][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Floor" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Floor.uasset" SILENT=true
+[2025.09.21-13.55.49:263][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Floor
+[2025.09.21-13.55.49:263][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_FloorBACAA6D84A874DFEB9ED42832D0D4238.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Floor.uasset'
+[2025.09.21-13.55.49:264][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Floor_Lamp] ([1] browsable assets)...
+[2025.09.21-13.55.49:276][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Floor_Lamp.SM_Floor_Lamp]
+[2025.09.21-13.55.49:276][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Floor_Lamp]
+[2025.09.21-13.55.49:316][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Floor_Lamp
+[2025.09.21-13.55.49:317][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Floor_Lamp460AF90C4670CC33D357B4ACBFFFE39F.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Floor_Lamp.uasset'
+[2025.09.21-13.55.49:319][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Juice] ([1] browsable assets)...
+[2025.09.21-13.55.49:331][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Juice.SM_Juice]
+[2025.09.21-13.55.49:331][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Juice]
+[2025.09.21-13.55.49:331][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Juice" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Juice.uasset" SILENT=true
+[2025.09.21-13.55.49:376][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Juice
+[2025.09.21-13.55.49:376][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Juice82C8791A41CA7FE68AA5D7B03B92D336.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Juice.uasset'
+[2025.09.21-13.55.49:377][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen] ([1] browsable assets)...
+[2025.09.21-13.55.49:393][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen.SM_Kitchen]
+[2025.09.21-13.55.49:393][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen]
+[2025.09.21-13.55.49:393][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Kitchen.uasset" SILENT=true
+[2025.09.21-13.55.49:612][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen
+[2025.09.21-13.55.49:613][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Kitchen362E735F447BB8280C59CDA0F51BAFB7.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Kitchen.uasset'
+[2025.09.21-13.55.49:616][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_10] ([1] browsable assets)...
+[2025.09.21-13.55.49:625][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_10.SM_Kitchen_Decor_10]
+[2025.09.21-13.55.49:626][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_10]
+[2025.09.21-13.55.49:660][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_10
+[2025.09.21-13.55.49:662][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Kitchen_Decor_10F751ECDB4CA67EC1475746BCACAB085E.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_10.uasset'
+[2025.09.21-13.55.49:663][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_11_Black] ([1] browsable assets)...
+[2025.09.21-13.55.49:674][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_11_Black.SM_Kitchen_Decor_11_Black]
+[2025.09.21-13.55.49:674][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_11_Black]
+[2025.09.21-13.55.49:709][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_11_Black
+[2025.09.21-13.55.49:709][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Kitchen_Decor_11_Black46CBB2FD46F1BEB5D7CFAAACD75B0E22.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_11_Black.uasset'
+[2025.09.21-13.55.49:712][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_11_White] ([1] browsable assets)...
+[2025.09.21-13.55.49:721][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_11_White.SM_Kitchen_Decor_11_White]
+[2025.09.21-13.55.49:721][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_11_White]
+[2025.09.21-13.55.49:757][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_11_White
+[2025.09.21-13.55.49:759][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Kitchen_Decor_11_White7119E8B04EC67BDCBF7D1885C00EBE84.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_11_White.uasset'
+[2025.09.21-13.55.49:762][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_12] ([1] browsable assets)...
+[2025.09.21-13.55.49:770][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_12.SM_Kitchen_Decor_12]
+[2025.09.21-13.55.49:770][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_12]
+[2025.09.21-13.55.49:847][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_12
+[2025.09.21-13.55.49:849][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Kitchen_Decor_1253388D4F4132733CB8E1F99D7865C5D9.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_12.uasset'
+[2025.09.21-13.55.49:850][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_13] ([1] browsable assets)...
+[2025.09.21-13.55.49:861][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_13.SM_Kitchen_Decor_13]
+[2025.09.21-13.55.49:861][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_13]
+[2025.09.21-13.55.49:885][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_13
+[2025.09.21-13.55.49:885][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Kitchen_Decor_13E1A28EBE4481B57647474DA07DD85C2D.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_13.uasset'
+[2025.09.21-13.55.49:888][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_14] ([1] browsable assets)...
+[2025.09.21-13.55.49:896][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_14.SM_Kitchen_Decor_14]
+[2025.09.21-13.55.49:897][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_14]
+[2025.09.21-13.55.49:922][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_14
+[2025.09.21-13.55.49:924][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Kitchen_Decor_14522E4D1D48F20D94BC5DF09EABAE75CD.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_14.uasset'
+[2025.09.21-13.55.49:925][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_18] ([1] browsable assets)...
+[2025.09.21-13.55.49:936][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_18.SM_Kitchen_Decor_18]
+[2025.09.21-13.55.49:936][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_18]
+[2025.09.21-13.55.50:053][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_18
+[2025.09.21-13.55.50:055][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Kitchen_Decor_1839968256401E4215ED50D1AE1940B50F.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_18.uasset'
+[2025.09.21-13.55.50:056][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_19] ([1] browsable assets)...
+[2025.09.21-13.55.50:067][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_19.SM_Kitchen_Decor_19]
+[2025.09.21-13.55.50:068][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_19]
+[2025.09.21-13.55.50:160][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_19
+[2025.09.21-13.55.50:160][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Kitchen_Decor_1931943639468F4101EE1411A6B3D7DDCC.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_19.uasset'
+[2025.09.21-13.55.50:164][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_9] ([1] browsable assets)...
+[2025.09.21-13.55.50:174][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_9.SM_Kitchen_Decor_9]
+[2025.09.21-13.55.50:174][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_9]
+[2025.09.21-13.55.50:218][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_9
+[2025.09.21-13.55.50:220][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Kitchen_Decor_9759E054E4C4E37C4DF7DF281C3175C98.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_9.uasset'
+[2025.09.21-13.55.50:221][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Table_Decor] ([1] browsable assets)...
+[2025.09.21-13.55.50:231][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Table_Decor.SM_Kitchen_Table_Decor]
+[2025.09.21-13.55.50:231][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Table_Decor]
+[2025.09.21-13.55.50:323][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Table_Decor
+[2025.09.21-13.55.50:325][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Kitchen_Table_Decor33BDBFC143B103C586E72C9A27CC6943.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Kitchen_Table_Decor.uasset'
+[2025.09.21-13.55.50:328][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Magazine_2] ([1] browsable assets)...
+[2025.09.21-13.55.50:337][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Magazine_2.SM_Magazine_2]
+[2025.09.21-13.55.50:337][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Magazine_2]
+[2025.09.21-13.55.50:373][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Magazine_2
+[2025.09.21-13.55.50:373][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Magazine_2AF9B9E484706708EFDF6EFA8BE5D838F.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Magazine_2.uasset'
+[2025.09.21-13.55.50:376][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Opened_Book] ([1] browsable assets)...
+[2025.09.21-13.55.50:386][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Opened_Book.SM_Opened_Book]
+[2025.09.21-13.55.50:386][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Opened_Book]
+[2025.09.21-13.55.50:415][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Opened_Book
+[2025.09.21-13.55.50:417][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Opened_Book841D09C645DE77F2F8D9F2BBC6D99A8D.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Opened_Book.uasset'
+[2025.09.21-13.55.50:418][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Orange] ([1] browsable assets)...
+[2025.09.21-13.55.50:427][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Orange.SM_Orange]
+[2025.09.21-13.55.50:427][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Orange]
+[2025.09.21-13.55.50:427][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Orange" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Orange.uasset" SILENT=true
+[2025.09.21-13.55.50:453][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Orange
+[2025.09.21-13.55.50:455][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Orange3D89133E4E5BFA894975BCA702E0455E.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Orange.uasset'
+[2025.09.21-13.55.50:456][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Orange_Cutted] ([1] browsable assets)...
+[2025.09.21-13.55.50:466][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Orange_Cutted.SM_Orange_Cutted]
+[2025.09.21-13.55.50:466][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Orange_Cutted]
+[2025.09.21-13.55.50:482][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Orange_Cutted
+[2025.09.21-13.55.50:483][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Orange_CuttedCB03627246255D152FB0F199F8D7D0C5.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Orange_Cutted.uasset'
+[2025.09.21-13.55.50:485][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Ottoman] ([1] browsable assets)...
+[2025.09.21-13.55.50:494][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Ottoman.SM_Ottoman]
+[2025.09.21-13.55.50:494][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Ottoman]
+[2025.09.21-13.55.50:494][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Ottoman" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Ottoman.uasset" SILENT=true
+[2025.09.21-13.55.50:594][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Ottoman
+[2025.09.21-13.55.50:595][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Ottoman0FBC07D44C5CF70931443C86C2EA13BE.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Ottoman.uasset'
+[2025.09.21-13.55.50:597][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Plant_1] ([1] browsable assets)...
+[2025.09.21-13.55.50:610][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Plant_1.SM_Plant_1]
+[2025.09.21-13.55.50:610][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Plant_1]
+[2025.09.21-13.55.50:610][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Plant_1" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Plant_1.uasset" SILENT=true
+[2025.09.21-13.55.50:738][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Plant_1
+[2025.09.21-13.55.50:738][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Plant_1DDFFF2024CC2733D9F453D9323B3C91B.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Plant_1.uasset'
+[2025.09.21-13.55.50:740][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Plant_2] ([1] browsable assets)...
+[2025.09.21-13.55.50:751][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Plant_2.SM_Plant_2]
+[2025.09.21-13.55.50:751][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Plant_2]
+[2025.09.21-13.55.50:751][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Plant_2" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Plant_2.uasset" SILENT=true
+[2025.09.21-13.55.50:972][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Plant_2
+[2025.09.21-13.55.50:972][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Plant_29B339C16447D63160E57AC97DB446BF2.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Plant_2.uasset'
+[2025.09.21-13.55.50:975][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Plates] ([1] browsable assets)...
+[2025.09.21-13.55.50:985][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Plates.SM_Plates]
+[2025.09.21-13.55.50:985][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Plates]
+[2025.09.21-13.55.50:985][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Plates" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Plates.uasset" SILENT=true
+[2025.09.21-13.55.51:027][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Plates
+[2025.09.21-13.55.51:029][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Plates66EE3F15432A0574976D0DBFB734078A.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Plates.uasset'
+[2025.09.21-13.55.51:030][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_1] ([1] browsable assets)...
+[2025.09.21-13.55.51:042][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_1.SM_Point_Lamp_1]
+[2025.09.21-13.55.51:042][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_1]
+[2025.09.21-13.55.51:066][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_1
+[2025.09.21-13.55.51:068][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Point_Lamp_101B2BFE94041CE300AFE95BEBA5FBAED.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_1.uasset'
+[2025.09.21-13.55.51:069][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_2] ([1] browsable assets)...
+[2025.09.21-13.55.51:078][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_2.SM_Point_Lamp_2]
+[2025.09.21-13.55.51:078][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_2]
+[2025.09.21-13.55.51:105][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_2
+[2025.09.21-13.55.51:106][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Point_Lamp_24A557E4E46BF96CE31CB27B5844D5A3D.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_2.uasset'
+[2025.09.21-13.55.51:107][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_3] ([1] browsable assets)...
+[2025.09.21-13.55.51:118][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_3.SM_Point_Lamp_3]
+[2025.09.21-13.55.51:118][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_3]
+[2025.09.21-13.55.51:146][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_3
+[2025.09.21-13.55.51:146][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Point_Lamp_350E5703A4E851FEDF1C4FC9C8DFCBD49.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_3.uasset'
+[2025.09.21-13.55.51:150][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_4] ([1] browsable assets)...
+[2025.09.21-13.55.51:159][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_4.SM_Point_Lamp_4]
+[2025.09.21-13.55.51:159][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_4]
+[2025.09.21-13.55.51:178][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_4
+[2025.09.21-13.55.51:180][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Point_Lamp_4FB270984450279AA15EE5B9D34C058A5.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_4.uasset'
+[2025.09.21-13.55.51:183][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_5] ([1] browsable assets)...
+[2025.09.21-13.55.51:192][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_5.SM_Point_Lamp_5]
+[2025.09.21-13.55.51:192][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_5]
+[2025.09.21-13.55.51:214][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_5
+[2025.09.21-13.55.51:215][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Point_Lamp_52CE1D21A49981B94A1AD6298F8B16933.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_5.uasset'
+[2025.09.21-13.55.51:217][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_6] ([1] browsable assets)...
+[2025.09.21-13.55.51:227][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_6.SM_Point_Lamp_6]
+[2025.09.21-13.55.51:227][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_6]
+[2025.09.21-13.55.51:247][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_6
+[2025.09.21-13.55.51:247][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Point_Lamp_67F9E0456477E17795D7B5CBDF7F4BD4C.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_6.uasset'
+[2025.09.21-13.55.51:250][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Pot] ([1] browsable assets)...
+[2025.09.21-13.55.51:260][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Pot.SM_Pot]
+[2025.09.21-13.55.51:260][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Pot]
+[2025.09.21-13.55.51:260][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Pot" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Pot.uasset" SILENT=true
+[2025.09.21-13.55.51:292][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Pot
+[2025.09.21-13.55.51:294][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Pot26BCBA5140906A0B8F0C2DB1BE909B28.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Pot.uasset'
+[2025.09.21-13.55.51:295][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Room_Walls] ([1] browsable assets)...
+[2025.09.21-13.55.51:310][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Room_Walls.SM_Room_Walls]
+[2025.09.21-13.55.51:310][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Room_Walls]
+[2025.09.21-13.55.51:436][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Room_Walls
+[2025.09.21-13.55.51:436][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Room_WallsDCEBC9AB446905F1929B41BAC132408E.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Room_Walls.uasset'
+[2025.09.21-13.55.51:439][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Socket_2] ([1] browsable assets)...
+[2025.09.21-13.55.51:452][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Socket_2.SM_Socket_2]
+[2025.09.21-13.55.51:452][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Socket_2]
+[2025.09.21-13.55.51:452][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Socket_2" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Socket_2.uasset" SILENT=true
+[2025.09.21-13.55.51:483][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Socket_2
+[2025.09.21-13.55.51:485][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Socket_22412D25A432C0211809BB6A7EE240673.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Socket_2.uasset'
+[2025.09.21-13.55.51:487][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Socket_3] ([1] browsable assets)...
+[2025.09.21-13.55.51:499][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Socket_3.SM_Socket_3]
+[2025.09.21-13.55.51:499][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Socket_3]
+[2025.09.21-13.55.51:499][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Socket_3" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Socket_3.uasset" SILENT=true
+[2025.09.21-13.55.51:530][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Socket_3
+[2025.09.21-13.55.51:531][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Socket_37583D6D44AB2CEC73C6356BA77B0FDFA.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Socket_3.uasset'
+[2025.09.21-13.55.51:533][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Sofa] ([1] browsable assets)...
+[2025.09.21-13.55.51:545][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Sofa.SM_Sofa]
+[2025.09.21-13.55.51:545][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Sofa]
+[2025.09.21-13.55.51:545][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Sofa" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Sofa.uasset" SILENT=true
+[2025.09.21-13.55.51:713][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Sofa
+[2025.09.21-13.55.51:715][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Sofa9E54CF8A47F1F86AC454E1BD479C956E.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Sofa.uasset'
+[2025.09.21-13.55.51:717][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Soundbar] ([1] browsable assets)...
+[2025.09.21-13.55.51:729][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Soundbar.SM_Soundbar]
+[2025.09.21-13.55.51:729][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Soundbar]
+[2025.09.21-13.55.51:729][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Soundbar" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Soundbar.uasset" SILENT=true
+[2025.09.21-13.55.51:761][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Soundbar
+[2025.09.21-13.55.51:761][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Soundbar2623C10F4694470721E37F961530EF3F.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Soundbar.uasset'
+[2025.09.21-13.55.51:762][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Stack_of_Books_2] ([1] browsable assets)...
+[2025.09.21-13.55.51:774][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Stack_of_Books_2.SM_Stack_of_Books_2]
+[2025.09.21-13.55.51:774][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Stack_of_Books_2]
+[2025.09.21-13.55.51:803][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Stack_of_Books_2
+[2025.09.21-13.55.51:804][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Stack_of_Books_2C086934742F9CFDA92E9A6BA6C3B91B7.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Stack_of_Books_2.uasset'
+[2025.09.21-13.55.51:806][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Table] ([1] browsable assets)...
+[2025.09.21-13.55.51:818][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Table.SM_Table]
+[2025.09.21-13.55.51:818][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Table]
+[2025.09.21-13.55.51:818][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Table" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Table.uasset" SILENT=true
+[2025.09.21-13.55.51:845][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Table
+[2025.09.21-13.55.51:846][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_TableD317D3964377E7139E3E4493D9DA90FE.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Table.uasset'
+[2025.09.21-13.55.51:848][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Tumblr_1] ([1] browsable assets)...
+[2025.09.21-13.55.51:860][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Tumblr_1.SM_Tumblr_1]
+[2025.09.21-13.55.51:860][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Tumblr_1]
+[2025.09.21-13.55.51:860][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Tumblr_1" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Tumblr_1.uasset" SILENT=true
+[2025.09.21-13.55.51:881][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Tumblr_1
+[2025.09.21-13.55.51:881][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Tumblr_141D8C87345A545832507F9AD30E36ACF.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Tumblr_1.uasset'
+[2025.09.21-13.55.51:884][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_TV] ([1] browsable assets)...
+[2025.09.21-13.55.51:898][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_TV.SM_TV]
+[2025.09.21-13.55.51:898][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_TV]
+[2025.09.21-13.55.51:898][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_TV" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_TV.uasset" SILENT=true
+[2025.09.21-13.55.51:924][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_TV
+[2025.09.21-13.55.51:925][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_TVFE894448455D30E64174688835BBB29A.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_TV.uasset'
+[2025.09.21-13.55.51:927][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Vase_10] ([1] browsable assets)...
+[2025.09.21-13.55.51:942][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Vase_10.SM_Vase_10]
+[2025.09.21-13.55.51:942][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Vase_10]
+[2025.09.21-13.55.51:942][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Vase_10" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Vase_10.uasset" SILENT=true
+[2025.09.21-13.55.51:965][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Vase_10
+[2025.09.21-13.55.51:965][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Vase_10DEF6833B46696F6B1C4BAD9FE0C52E50.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Vase_10.uasset'
+[2025.09.21-13.55.51:968][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Vase_4] ([1] browsable assets)...
+[2025.09.21-13.55.51:982][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Vase_4.SM_Vase_4]
+[2025.09.21-13.55.51:982][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Vase_4]
+[2025.09.21-13.55.51:982][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Vase_4" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Vase_4.uasset" SILENT=true
+[2025.09.21-13.55.52:024][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Vase_4
+[2025.09.21-13.55.52:025][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Vase_47207E00D4CC168983CE597B75417B068.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Vase_4.uasset'
+[2025.09.21-13.55.52:027][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Vase_7] ([1] browsable assets)...
+[2025.09.21-13.55.52:041][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Vase_7.SM_Vase_7]
+[2025.09.21-13.55.52:041][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Vase_7]
+[2025.09.21-13.55.52:041][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Vase_7" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Vase_7.uasset" SILENT=true
+[2025.09.21-13.55.52:098][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Vase_7
+[2025.09.21-13.55.52:100][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Vase_746FB2F2048B50AC3EEED3185C3494645.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Vase_7.uasset'
+[2025.09.21-13.55.52:103][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Vase_9] ([1] browsable assets)...
+[2025.09.21-13.55.52:117][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Vase_9.SM_Vase_9]
+[2025.09.21-13.55.52:117][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Vase_9]
+[2025.09.21-13.55.52:117][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Vase_9" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Vase_9.uasset" SILENT=true
+[2025.09.21-13.55.52:146][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Vase_9
+[2025.09.21-13.55.52:148][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Vase_976A29F80471166A87E655187DCA8F735.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Vase_9.uasset'
+[2025.09.21-13.55.52:149][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Wall_Lamp] ([1] browsable assets)...
+[2025.09.21-13.55.52:162][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Wall_Lamp.SM_Wall_Lamp]
+[2025.09.21-13.55.52:162][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Wall_Lamp]
+[2025.09.21-13.55.52:162][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Wall_Lamp" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Wall_Lamp.uasset" SILENT=true
+[2025.09.21-13.55.52:184][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Wall_Lamp
+[2025.09.21-13.55.52:185][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Wall_Lamp5CFC089342646C26754CB984E68BE623.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Wall_Lamp.uasset'
+[2025.09.21-13.55.52:185][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Window] ([1] browsable assets)...
+[2025.09.21-13.55.52:200][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Window.SM_Window]
+[2025.09.21-13.55.52:200][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Window]
+[2025.09.21-13.55.52:202][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVizInteriorVol3/Meshes/SM_Window" FILE="../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Window.uasset" SILENT=true
+[2025.09.21-13.55.52:220][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Window
+[2025.09.21-13.55.52:220][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Window20A1D5D0426203004414DEA552779DE6.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Window.uasset'
+[2025.09.21-13.55.52:223][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArchVizInteriorVol3/Meshes/SM_Window_Glass] ([1] browsable assets)...
+[2025.09.21-13.55.52:237][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ArchVizInteriorVol3/Meshes/SM_Window_Glass.SM_Window_Glass]
+[2025.09.21-13.55.52:237][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Meshes/SM_Window_Glass]
+[2025.09.21-13.55.52:253][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Meshes/SM_Window_Glass
+[2025.09.21-13.55.52:254][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SM_Window_GlassA99473B3430DF1800B5CC08B175DC3D2.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Meshes/SM_Window_Glass.uasset'
+[2025.09.21-13.55.52:256][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArchVizInteriorVol3/Maps/Interior_BuiltData] ([1] browsable assets)...
+[2025.09.21-13.55.52:256][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArchVizInteriorVol3/Maps/Interior_BuiltData]
+[2025.09.21-13.55.52:486][810]LogSavePackage: Moving output files for package: /Game/ArchVizInteriorVol3/Maps/Interior_BuiltData
+[2025.09.21-13.55.52:486][810]LogSavePackage: Moving '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/Interior_BuiltData8C5B73754E5564499C52B6ABC0BA6425.tmp' to '../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Content/ArchVizInteriorVol3/Maps/Interior_BuiltData.uasset'
+[2025.09.21-13.55.52:506][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.43 sec (total: 6.63 sec)
+[2025.09.21-13.55.52:636][810]LogContentValidation: Display: Starting to validate 82 assets
+[2025.09.21-13.55.52:636][810]LogContentValidation: Enabled validators:
+[2025.09.21-13.55.52:636][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.21-13.55.52:636][810]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.21-13.55.52:636][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.21-13.55.52:636][810]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.21-13.55.52:636][810]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.21-13.55.52:636][810]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.21-13.55.52:637][810]AssetCheck: /Game/ArchVizInteriorVol3/Maps/Interior Validating asset
+[2025.09.21-13.55.52:637][810]AssetCheck: /Game/ArchVizInteriorVol3/Maps/Interior_BuiltData Validating asset
+[2025.09.21-13.55.52:637][810]AssetCheck: /Engine/EngineSky/BP_Sky_Sphere Validating asset
+[2025.09.21-13.55.52:642][810]AssetCheck: /Engine/EngineSky/SM_SkySphere Validating asset
+[2025.09.21-13.55.52:661][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Armchair Validating asset
+[2025.09.21-13.55.52:663][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Backside_Door Validating asset
+[2025.09.21-13.55.52:663][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Backside_Door_Glass Validating asset
+[2025.09.21-13.55.52:669][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Bag_1 Validating asset
+[2025.09.21-13.55.52:678][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Bag_2 Validating asset
+[2025.09.21-13.55.52:688][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Bag_3 Validating asset
+[2025.09.21-13.55.52:782][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Bed Validating asset
+[2025.09.21-13.55.52:783][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Bed_Table Validating asset
+[2025.09.21-13.55.52:786][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Blinds_1 Validating asset
+[2025.09.21-13.55.52:792][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Blinds_2 Validating asset
+[2025.09.21-13.55.52:822][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Blinds_3 Validating asset
+[2025.09.21-13.55.52:835][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Bowl_with_Oranges Validating asset
+[2025.09.21-13.55.52:840][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Candlestick Validating asset
+[2025.09.21-13.55.52:841][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Carpet Validating asset
+[2025.09.21-13.55.52:841][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Ceiling Validating asset
+[2025.09.21-13.55.52:857][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_1 Validating asset
+[2025.09.21-13.55.52:870][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_2 Validating asset
+[2025.09.21-13.55.52:878][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Ceiling_Lamp_3 Validating asset
+[2025.09.21-13.55.52:889][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Chair Validating asset
+[2025.09.21-13.55.52:912][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Chair_2 Validating asset
+[2025.09.21-13.55.52:928][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Clock Validating asset
+[2025.09.21-13.55.52:932][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_1 Validating asset
+[2025.09.21-13.55.52:936][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_2 Validating asset
+[2025.09.21-13.55.52:945][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Coffe_Table_3 Validating asset
+[2025.09.21-13.55.52:952][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Cup Validating asset
+[2025.09.21-13.55.52:963][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Decor_1 Validating asset
+[2025.09.21-13.55.52:972][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Decor_2 Validating asset
+[2025.09.21-13.55.52:975][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Decor_3 Validating asset
+[2025.09.21-13.55.52:989][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Decor_4 Validating asset
+[2025.09.21-13.55.52:991][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Decor_5 Validating asset
+[2025.09.21-13.55.52:992][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Decor_9 Validating asset
+[2025.09.21-13.55.52:992][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Door Validating asset
+[2025.09.21-13.55.52:997][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Door_Enter Validating asset
+[2025.09.21-13.55.52:997][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Floor Validating asset
+[2025.09.21-13.55.53:002][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Floor_Lamp Validating asset
+[2025.09.21-13.55.53:007][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Juice Validating asset
+[2025.09.21-13.55.53:077][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen Validating asset
+[2025.09.21-13.55.53:082][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_10 Validating asset
+[2025.09.21-13.55.53:087][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_11_Black Validating asset
+[2025.09.21-13.55.53:090][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_11_White Validating asset
+[2025.09.21-13.55.53:102][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_12 Validating asset
+[2025.09.21-13.55.53:105][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_13 Validating asset
+[2025.09.21-13.55.53:105][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_14 Validating asset
+[2025.09.21-13.55.53:140][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_18 Validating asset
+[2025.09.21-13.55.53:162][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_19 Validating asset
+[2025.09.21-13.55.53:173][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Decor_9 Validating asset
+[2025.09.21-13.55.53:206][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Kitchen_Table_Decor Validating asset
+[2025.09.21-13.55.53:209][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Magazine_2 Validating asset
+[2025.09.21-13.55.53:210][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Opened_Book Validating asset
+[2025.09.21-13.55.53:212][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Orange Validating asset
+[2025.09.21-13.55.53:213][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Orange_Cutted Validating asset
+[2025.09.21-13.55.53:244][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Ottoman Validating asset
+[2025.09.21-13.55.53:280][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Plant_1 Validating asset
+[2025.09.21-13.55.53:350][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Plant_2 Validating asset
+[2025.09.21-13.55.53:357][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Plates Validating asset
+[2025.09.21-13.55.53:357][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_1 Validating asset
+[2025.09.21-13.55.53:359][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_2 Validating asset
+[2025.09.21-13.55.53:361][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_3 Validating asset
+[2025.09.21-13.55.53:361][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_4 Validating asset
+[2025.09.21-13.55.53:361][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_5 Validating asset
+[2025.09.21-13.55.53:361][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Point_Lamp_6 Validating asset
+[2025.09.21-13.55.53:363][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Pot Validating asset
+[2025.09.21-13.55.53:392][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Room_Walls Validating asset
+[2025.09.21-13.55.53:395][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Socket_2 Validating asset
+[2025.09.21-13.55.53:400][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Socket_3 Validating asset
+[2025.09.21-13.55.53:447][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Sofa Validating asset
+[2025.09.21-13.55.53:452][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Soundbar Validating asset
+[2025.09.21-13.55.53:455][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Stack_of_Books_2 Validating asset
+[2025.09.21-13.55.53:457][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Table Validating asset
+[2025.09.21-13.55.53:457][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Tumblr_1 Validating asset
+[2025.09.21-13.55.53:457][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_TV Validating asset
+[2025.09.21-13.55.53:458][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Vase_10 Validating asset
+[2025.09.21-13.55.53:465][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Vase_4 Validating asset
+[2025.09.21-13.55.53:476][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Vase_7 Validating asset
+[2025.09.21-13.55.53:477][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Vase_9 Validating asset
+[2025.09.21-13.55.53:479][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Wall_Lamp Validating asset
+[2025.09.21-13.55.53:481][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Window Validating asset
+[2025.09.21-13.55.53:482][810]AssetCheck: /Game/ArchVizInteriorVol3/Meshes/SM_Window_Glass Validating asset
+[2025.09.21-13.55.53:531][810]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ASUS/Documents/VrTour/vr_tour/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.21-13.56.37:428][ 89]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 364.419128
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: ================================================
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Total job queries 3,699, among them cache hits 1,098 (29.68%), DDC hits 1,937 (52.37%), Duplicates 321 (8.68%)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Tracking 2,280 distinct input hashes that result in 1,591 distinct outputs (69.78%)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: RAM used: 19.33 MiB of 819.20 MiB budget. Usage: 2.36%
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Shaders Compiled: 343
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Jobs assigned 343, completed 343 (100%)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Average time worker was idle: 9.39 s
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Time job spent in pending queue: average 8.94 s, longest 29.48 s
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Job execution time: average 2.15 s, max 5.56 s
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Job life time (pending + execution): average 11.09 s, max 32.15
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Shader code size: total 5.426 MiB, numShaders 347, average 16.013 KiB, min 1.63 KiB, max 100.041 KiB
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 76.95 s
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Jobs were issued in 310 batches (only local compilation was used), average 1.11 jobs/batch
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Average processing rate: 4.46 jobs/sec
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Total thread time: 655.767 s
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Total thread preprocess time: 82.215 s
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Percentage time preprocessing: 12.54%
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Effective parallelization: 8.52 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.852147
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 4.81 sec, max 4.81 sec, min 4.81 sec)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   49 times, average 3.92 sec, max 4.71 sec, min 2.62 sec)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   49 times, average 3.37 sec, max 3.80 sec, min 2.59 sec)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: TMaterialCHSTDistanceFieldShadowsAndLightMapPolicyHQFAnyHitShader (compiled    1 times, average 2.15 sec, max 2.15 sec, min 2.15 sec)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 29.31% of total time (compiled   49 times, average 3.92 sec, max 4.71 sec, min 2.62 sec)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.21% of total time (compiled   49 times, average 3.37 sec, max 3.80 sec, min 2.59 sec)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display:         TMaterialCHSTDistanceFieldShadowsAndLightMapPolicyHQ - 12.28% of total time (compiled   48 times, average 1.68 sec, max 1.78 sec, min 1.42 sec)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display:                                             FGPULightmassCHS - 11.13% of total time (compiled   55 times, average 1.33 sec, max 3.06 sec, min 0.92 sec)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.92% of total time (compiled   47 times, average 1.52 sec, max 1.86 sec, min 1.28 sec)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: === Material stats ===
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Materials Translated:    232
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Material Translation Only: 0.06 s (35%)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.09.21-13.56.38:425][ 92]LogShaderCompilers: Display: ================================================
+[2025.09.21-13.56.38:762][ 93]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.21-13.56.38:762][ 93]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 365.420105, Update Interval: 358.330017
