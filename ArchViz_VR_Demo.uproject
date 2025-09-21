@@ -33,6 +33,18 @@
 				"LinuxArm64",
 				"Android"
 			]
+		},
+		{
+			"Name": "RAC_Lite",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.fab.com/listings/723e5253-d856-40bb-85e6-b38c66882763",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
